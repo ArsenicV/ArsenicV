@@ -1,11 +1,11 @@
 # Hi There, I'm Thirshe Perera (Arsenic)<br>
-> A domesticated Alien who creates executable things. <br>
+> A domesticated Alien who creates executable things. <br><br><br>
 
 
 
 18, Student <br>
 Interested in Artificial Intelligence & Machine Learning.<br>
-Anime enthusiest, Average FPS lover.<br>
+Anime enthusiest, Average FPS lover.<br><br><br>
 
 
 *Socials* <br>
