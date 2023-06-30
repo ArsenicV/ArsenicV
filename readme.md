@@ -1,9 +1,10 @@
+<div style="font-family: monospace;">
 # Hi There, I'm Thirshe Perera (Arsenic)<br>
-> A domesticated Alien who creates executable things. <br><br><br>
+> A domesticated Alien who creates executable things. <br>
 
 
-
-18, Student <br>
+<br>
+18yo, Student <br>
 Interested in Artificial Intelligence & Machine Learning.<br>
 Anime enthusiest, Average FPS lover.<br><br><br>
 
