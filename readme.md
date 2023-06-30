@@ -1,5 +1,5 @@
 # Hi There, I'm Thirshe Perera (Arsenic)<br>
-> A homesicked Alien who creates executable things. <br>
+> A homesick Alien who creates executable things. <br>
 
 
 <br>
