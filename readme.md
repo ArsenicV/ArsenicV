@@ -6,7 +6,7 @@
 <div style="font-family: monospace;">
 18yo, Student. <br>
 Interested in Artificial Intelligence & Machine Learning.<br>
-Anime enthusiest, Average FPS lover.<br><br><br></div>
+Anime Enthusiest, Average FPS lover.<br><br><br></div>
 
 
 *Socials* <br>
