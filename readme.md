@@ -1,4 +1,4 @@
-# Hi There, I'm Thirshe Perera (Arsenic)<br>
+# Hi There, I'm Thirshe Perera<br>
 > One homesick Alien who creates executable things. <br>
 
 
