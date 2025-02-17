@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Nova+Square&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+
 ### Hey there &#x1F44B<br><hr>
 <br>
 <font face="monospace">I'm <a href="#">Thirshe,</a> a 19yo old student from SL. <br>
