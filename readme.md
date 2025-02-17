@@ -1,11 +1,11 @@
 # Hi There, I'm Thirshe<br>
->Creating Stuff <br>
+>Ones & Zeros only <br>
 
 
 <br>
 <div style="font-family: monospace;">
 19yo <br>
-Passionate student about Artificial Intelligence and MAchine Learning.<br>
+A student who is passionate about Artificial Intelligence and Machine Learning.<br>
 Anime Enthusiest, Average FPS lover.<br><br><br></div>
 
 
