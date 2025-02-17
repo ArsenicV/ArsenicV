@@ -1,15 +1,16 @@
-### Hi There, I'm Thirshe<br>
->Ones & Zeros only <br>
-
+### Hey there &#x1F44B<br>
+I'm <a href="#">Thirshe,</a> a 19yo old student from SL. <br>
+I'm passioante about Artificial Intelligence & Machine Learning. <br>
+Currently writing content about <b>CyberSecurity</b>, <b>Artificial Intelligence</b> and <b>Machine Leraning</b>.<br>
 
 <br>
-<div style="font-family: monospace;">
-19yo <br>
-A student who is passionate about Artificial Intelligence and Machine Learning.<br>
-Anime Enthusiest, Average FPS lover.<br><br><br></div>
+Beyond work, I'm an avid anime enthusiast & passionate gamer.
+<br>
+Let's Connect!<br>
 
 
-*Socials* <br>
+
+
  [Facebook](https://web.facebook.com/thirshe.perera)<br>[LinkedIn](https://www.linkedin.com/in/thirshe-perera-109644276/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3Bd5c976e4-ae37-497b-b3bd-851b508d983c)
 
 
