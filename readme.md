@@ -1,7 +1,7 @@
 
-### Hey there &#x1F44B<br><hr>
+### Hey there! <br><hr>
 <br>
-<font face="monospace">I'm <a href="#">Thirshe,</a> a 19yo old student from SL. <br>
+<font face="monospace" size="6">I'm <a href="https://web.facebook.com/thirshe.perera">Thirshe,</a> a 19yo old student from SL. <br>
 I'm passioante about Artificial Intelligence & Machine Learning. <br>
 Currently writing content about <b>CyberSecurity</b>, <b>Artificial Intelligence</b> and <b>Machine Leraning</b>.<br>
 
