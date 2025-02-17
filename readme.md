@@ -1,11 +1,11 @@
-# Hi There, I'm Thirshe Perera<br>
-> One homesick Alien who creates executable things. <br>
+# Hi There, I'm Thirshe<br>
+>Creating Stuff <br>
 
 
 <br>
 <div style="font-family: monospace;">
-18yo, Student. <br>
-Interested in Artificial Intelligence & Machine Learning.<br>
+19yo <br>
+Passionate student about Artificial Intelligence and MAchine Learning.<br>
 Anime Enthusiest, Average FPS lover.<br><br><br></div>
 
 
