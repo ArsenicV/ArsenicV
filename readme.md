@@ -6,8 +6,8 @@ Currently writing content about <b>CyberSecurity</b>, <b>Artificial Intelligence
 
 <br>
 Beyond work, I'm an avid anime enthusiast & passionate gamer.
-<br>
-Let's Connect!<br>
+<br><br><br>
+Let's Connect!<br><br>
 
 
 
