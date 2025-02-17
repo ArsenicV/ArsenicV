@@ -1,5 +1,5 @@
 
-## Hey there! <br>_____
+## Hey there! <br><hr>
 <br>
 I'm <a href="https://web.facebook.com/thirshe.perera">Thirshe,</a> a 19yo old student from SL. <br>
 I'm passioante about Artificial Intelligence & Machine Learning. <br>
