@@ -1,8 +1,7 @@
-<br>
 ## Hey there!
 
-<br>I'm <a href="https://web.facebook.com/thirshe.perera">Thirshe,</a> a 19yo old student from SL. <br>
-I'm passioante about Artificial Intelligence & Machine Learning. <br>
+<br>I'm  <a href="https://web.facebook.com/thirshe.perera">Thirshe</a>,  a  19yo  old  student  from  SL. <br>
+I'm  passioante  about  Artificial  Intelligence  &  Machine  Learning. <br>
 Currently writing content about <b>CyberSecurity</b>, <b>Artificial Intelligence</b> and <b>Machine Leraning</b>.<br>
 
 <br>
