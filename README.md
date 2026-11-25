@@ -1,97 +1,56 @@
 <!--
-  Minimal Minecraft console README. No images, no widgets.
+  Very minimal Minecraft README. Muted palette: stone 2b2b2b, deepslate 3b3f45, moss 5b7a4a, dirt 6b4f3a.
   Replace YOUR_USERNAME, YOUR_HANDLE, YOUR_EMAIL and the repo links.
 -->
 
-```text
- ┌────────────────────────────────────────────────────────┐
- │  ▓▓ THIRSHE'S WORLD ▓▓      Survival · Hardcore · 1.21 │
- └────────────────────────────────────────────────────────┘
-```
+<div align="center">
+<pre>
+ _____ _    _        _          ___                      
+|_   _| |_ (_)_ _ __| |_  ___  | _ \___ _ _ ___ _ _ __ _ 
+  | | | ' \| | '_(_-< ' \/ -_) |  _/ -_) '_/ -_) '_/ _` |
+  |_| |_||_|_|_| /__/_||_\___| |_| \___|_| \___|_| \__,_|
+</pre>
 
-```mcfunction
-/data get entity Thirshe
-```
+<sub>data science · computational biology · sri lanka</sub>
 
-```yaml
-name:      Thirshe
-class:     Data Science undergrad, SLIIT (Year 2)
-research:  computational biology / protein structure prediction
-also:      ML engineering, comp. neuroscience, spacetech
-building:  LabOS
-spawn:     Sri Lanka
-```
+</div>
 
----
+<br/>
 
-```mcfunction
-/advancement progress Thirshe only quests
-```
+### /about
 
-```text
- QUEST               PROGRESS                       STATE
- ────────────────────────────────────────────────────────────
- protein-folding     [██████████░░░░░░░░░░]  50%    ◆ main quest
- rocket-telemetry    [███░░░░░░░░░░░░░░░░░]  15%    ◆ winter arc
- sinhala-finetune    [█░░░░░░░░░░░░░░░░░░░]   5%    ◇ locked
- local-agent         [██░░░░░░░░░░░░░░░░░░]  10%    ◇ locked
-```
+Second-year Data Science undergraduate at SLIIT. Independent research in protein structure prediction. Building toward LabOS, a long-term venture across ML engineering, computational biology and neuroscience.
 
-<!-- EDIT: update bars as you progress -->
+<br/>
 
----
+### /projects
 
-```mcfunction
-/locate structure projects
-```
-
-| structure | loot | enchantments |
+| world | description | state |
 |:--|:--|:--|
-| [`protein-structure`](https://github.com/YOUR_USERNAME/REPO) | Novel structure predictor: Hyena → EGNN → liquid nets | `python` `pytorch` |
-| [`rocket-telemetry`](https://github.com/YOUR_USERNAME/REPO) | Flight software + sensor telemetry for hobby rocketry | `f-prime` `c++` `kafka` |
-| [`pcb-defect`](https://github.com/YOUR_USERNAME/REPO) | PCB defect detection with computer vision | `python` |
-| [`drist`](https://github.com/YOUR_USERNAME/REPO) | Diabetes risk screening tool (team of 6) | `python` |
+| [`protein-structure`](https://github.com/YOUR_USERNAME/REPO) | Hyena, EGNN and liquid nets structure predictor | ![](https://img.shields.io/badge/-active-5b7a4a?style=flat-square&labelColor=2b2b2b) |
+| [`rocket-telemetry`](https://github.com/YOUR_USERNAME/REPO) | Flight software and telemetry for hobby rocketry | ![](https://img.shields.io/badge/-starting-6b4f3a?style=flat-square&labelColor=2b2b2b) |
+| [`pcb-defect`](https://github.com/YOUR_USERNAME/REPO) | PCB defect detection with computer vision | ![](https://img.shields.io/badge/-done-3b3f45?style=flat-square&labelColor=2b2b2b) |
 
-<!-- EDIT: keep it to 3 to 5 repos -->
+<br/>
 
----
-
-```mcfunction
-/give Thirshe inventory
-```
+### /inventory
 
 ```text
- HOTBAR     python  c++  rust  go  java  r  sql
- INVENTORY  pytorch  ollama  docker  git  linux  kafka  obsidian
- ENCHANTING cuda  triton  f-prime            (learning)
+python  c++  rust  go  java  r  sql
+pytorch  docker  git  linux  kafka
+learning: cuda  triton  f-prime
 ```
 
----
+<br/>
 
-```mcfunction
-/advancement grant Thirshe everything
-```
+### /chat
 
-```text
- ◆ Taking Inventory ─── Started Data Science @ SLIIT
-  ├─ ◆ Getting an Upgrade ── Built a PCB defect detection system
-  ├─ ◆ Cartographer ──────── Designed a novel protein structure pipeline
-  │   └─ ◇ Local Legend ──── Publish the research
-  └─ ◇ Hero of the Village ─ Google Summer of Code
-```
+[![linkedin](https://img.shields.io/badge/-linkedin-3b3f45?style=flat-square&labelColor=2b2b2b)](https://linkedin.com/in/YOUR_HANDLE)
+[![x](https://img.shields.io/badge/-x-3b3f45?style=flat-square&labelColor=2b2b2b)](https://x.com/YOUR_HANDLE)
+[![email](https://img.shields.io/badge/-email-3b3f45?style=flat-square&labelColor=2b2b2b)](mailto:YOUR_EMAIL)
 
-<sub>◆ done · ◇ locked</sub>
+<br/>
 
----
-
-```mcfunction
-/msg Thirshe
-```
-
-```text
- [linkedin]  linkedin.com/in/YOUR_HANDLE
- [x]         x.com/YOUR_HANDLE
- [email]     YOUR_EMAIL
-
- <Thirshe> open to research collabs. don't dig straight down ⛏
-```
+<div align="center">
+<sub>don't dig straight down</sub>
+</div>
